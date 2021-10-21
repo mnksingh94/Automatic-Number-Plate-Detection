@@ -87,8 +87,6 @@ to push work directory contents to your git repo
     - This dict – key and value will come after passing thru the OCR
 5. In real time when getting data from camera, we do cv2.videocapture and cam.read to get continuous image from the camera.
 
-
-
 ## Technology Used
 <p align="left">
 
